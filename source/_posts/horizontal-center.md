@@ -1,6 +1,7 @@
 ---
 title: 水平居中
 date: 2018-10-25 15:01:48
+categories: CSS
 tags: [HTML,CSS]
 editor: quierunt
 ---

@@ -1,6 +1,7 @@
 ---
 title: 垂直居中
 date: 2018-10-25 15:06:46
+categories: CSS
 tags: [HTML,CSS]
 editor: 小黄冲鸭
 ---

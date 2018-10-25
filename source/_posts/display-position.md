@@ -1,6 +1,7 @@
 ---
 title: CSS的display和position
 date: 2018-10-25 15:10:49
+categories: CSS
 tags: [CSS]
 editor: ShengzheWang
 ---
@@ -81,5 +82,5 @@ fixed的效果是能让使用该定位的元素固定在窗口中的某个位置
 <span style="font-size: 40px;color: whitesmoke">fixed</span>
 </div>
 ```
-效果如图：![固定fixed](/images/11200005-9ef380678c1687d5.png)  
+效果如图：![固定fixed](../images/11200005-9ef380678c1687d5.png)  
 应用多类似于网页上弹出的小广告
